@@ -2,37 +2,29 @@
 icon: pen-to-square
 ---
 
-# Editor
+# Towny
 
-GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
+## **Основные термины**
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
+> Город - это территория защищенная приватом, у каждого города есть свой мэр и казна, в городах житель получает защиту от набегов и может быть повышен до помощника мэра.                                      \
+> \
+> Мэр - собственно это и есть тот кто управляет городом. В городе может быть только один мэр, как и один игрок может быть мэром только в одном городе.\
+> \
+> Помощник мэра - Назначается мэром из числа жителей города, множество возможностей которыми обладает сам мэр, это его опора в сложную минуту. Может быть назначено любое количество помощников.\
+> \
+> Житель - любой игрок живущий в городе.\
+> \
+> Государство - Объединение нескольких городов с единой столицей или один город-государство.
 
-### Writing content
+## Команды <a href="#komandy" id="komandy"></a>
 
-GitBook offers a range of block types for you to add to your content inline — from simple text and tables, to code blocks and more. These elements will make your pages more useful to readers, and offer extra information and context.
+### **Информационные команды**
 
-Either start typing below, or press `/` to see a list of the blocks you can insert into your page.
+### Информационные команды
 
-### Add a new block
-
-{% stepper %}
-{% step %}
-### Open the insert block menu
-
-Press `/` on your keyboard to open the insert block menu.
-{% endstep %}
-
-{% step %}
-### Search for the block you need&#x20;
-
-Try searching for “Stepper”, for exampe, to insert the stepper block.
-{% endstep %}
-
-{% step %}
-### Insert and edit your block
-
-Click or press Enter to insert your block. From here, you’ll be able to edit it as needed.
-{% endstep %}
-{% endstepper %}
-
+| Команда       | Описание                                    | Пример |
+| ------------- | ------------------------------------------- | ------ |
+| `/resident ?` | Все команды доступные жителям               | `---`  |
+| `/town ?`     | Все команды доступные при работе с городом  | `---`  |
+| `/plot ?`     | Все команды доступные при работе с участком | `---`  |
+| `/towny ?`    | Остальные команды Towny                     | `---`  |
