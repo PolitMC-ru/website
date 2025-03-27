@@ -7,11 +7,11 @@
 * [Быстрый старт](nachat-igru/quickstart.md)
 * [Как зайти на сервер](nachat-igru/publish-your-docs.md)
 
-## Basics
+## По игре
 
-* [Towny](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Towny](po-igre/editor.md)
+* [Система войн](po-igre/flagwar.md)
+* [Images & media](po-igre/images-and-media.md)
+* [Interactive blocks](po-igre/interactive-blocks.md)
+* [OpenAPI](po-igre/openapi.md)
+* [Integrations](po-igre/integrations.md)
