@@ -11,7 +11,7 @@
 
 * [Towny](po-igre/editor.md)
 * [Система войн](po-igre/flagwar.md)
-* [Images & media](po-igre/images-and-media.md)
-* [Interactive blocks](po-igre/interactive-blocks.md)
-* [OpenAPI](po-igre/openapi.md)
-* [Integrations](po-igre/integrations.md)
+* [Полный список команд](po-igre/images-and-media.md)
+* [Конкурсы](po-igre/interactive-blocks.md)
+* [Помощь серверу](po-igre/openapi.md)
+* [Untitled](po-igre/integrations.md)
